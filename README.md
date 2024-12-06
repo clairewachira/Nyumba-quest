@@ -27,7 +27,7 @@ Nyumba Quest is a 2D adventure game developed using Python and Pygame. Navigate 
    ```
 
 2. Create and activate a virtual environment (optional if you have a global pygame installation):
-   ```bash
+   ```bash.
    python -m venv venv
    # Activate:
    # Windows: venv\Scripts\activate
