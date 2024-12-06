@@ -99,7 +99,7 @@ Distributed under the MIT License.
 
 - Pygame
 - OpenGameArt.org
-- Python Community
+- Python Community.
 
 ---
 *Embark on your quest and uncover the secrets that await within the house of mysteries!*
