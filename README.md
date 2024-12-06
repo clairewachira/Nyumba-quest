@@ -4,7 +4,7 @@
 Nyumba Quest is a 2D adventure game developed using Python and Pygame. Navigate through a mysterious house, collect treasures and health items, and evade AI-controlled enemies to achieve victory.
 
 ## Features
-
+......
 - Dynamic AI Enemies
 - Item Collection
 - Realistic Collision Detection
